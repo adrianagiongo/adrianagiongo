@@ -1,5 +1,4 @@
 ### Hi there!
-![Trigo](https://github.com/adrianagiongo/adrianagiongo/assets/119573602/fa5d8db7-8fd8-45f7-953d-06b567942ad3)
 
 <!--
 **adrianagiongo/adrianagiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
