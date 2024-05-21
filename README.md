@@ -1,4 +1,7 @@
-### Hi there!
+### Hello! I am Adriana
+My research focuses on the role of microorganisms in sustainable agriculture, with a particular emphasis on plant-microbe interactions and soil suppressiveness. I am interested in how agricultural systems, climate change, and plant management practices influence microbial communities in bulk soil, rhizosphere, and rhizoplane and their overall impact on plant health.
+
+<img src="https://myreadme.vercel.app/api/embed/adrianagiongo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **adrianagiongo/adrianagiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
