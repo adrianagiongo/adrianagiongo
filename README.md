@@ -8,12 +8,13 @@ My research focuses on the role of microorganisms in sustainable agriculture, wi
 </p>
 
 <img src="https://myreadme.vercel.app/api/embed/adrianagiongo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://komarev.com/ghpvc/?username=adrianagiongo&color=blue" alt="watching_count" />
 
 <!--
 **adrianagiongo/adrianagiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://profile-counter.glitch.me/{adrianagiongo}/count.svg" alt="adrianagiongo :: Visitor's Count" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
