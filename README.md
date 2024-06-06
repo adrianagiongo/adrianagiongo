@@ -3,7 +3,7 @@ My research focuses on the role of microorganisms in sustainable agriculture, wi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,git,github,latex,notion,perl,ps,r&theme=light" />
+    <img src="https://skillicons.dev/icons?i=apple,git,github,latex,notion,perl,ps,py,r&theme=light" />
   </a>
 </p>
 
