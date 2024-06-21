@@ -9,7 +9,6 @@ My research focuses on the role of microorganisms in sustainable agriculture, wi
 </p>
 <img src="https://komarev.com/ghpvc/?username=adrianagiongo&color=blue" alt="watching_count" />
 
-
 <!--
 **adrianagiongo/adrianagiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
