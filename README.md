@@ -1,11 +1,6 @@
 ### Hello! I am Adriana,
 and my research focuses on the role of microorganisms in sustainable agriculture, with a particular emphasis on soil-plant-microbe interactions. I am interested in how agricultural systems, climate change, and plant management practices influence microbial communities in soil and rhizosphere, and their overall impact on plant health and fitness.
 
-<img src="https://myreadme.vercel.app/api/embed/adrianagiongo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,git,github,latex,linux,notion,perl,ps,py,r&theme=light" />
-  </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=adrianagiongo&color=blue" alt="watching_count" />
 
