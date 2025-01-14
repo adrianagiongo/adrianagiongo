@@ -1,5 +1,5 @@
 ### Hello! I am Adriana,
-a microbiologist whose research focuses on the role of microorganisms in sustainable agriculture, with a particular emphasis on soil-plant-microbe interactions. I am interested in how agricultural systems, climate change, and plant management practices influence microbial communities in the soil and rhizosphere, and their overall impact on plant health and fitness.
+a biologist whose research focuses on the role of microorganisms in sustainable agriculture, with a particular emphasis on soil-plant-microbe interactions. I am interested in how agricultural systems, climate change, and plant management practices influence microbial communities in the soil and rhizosphere, and their overall impact on plant health and fitness.
 
 </p>
 <img src="https://komarev.com/ghpvc/?username=adrianagiongo&color=blue" alt="watching_count" />
